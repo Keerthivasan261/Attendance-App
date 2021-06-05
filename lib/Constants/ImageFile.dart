@@ -1,0 +1,17 @@
+const String unknownUser="https://drive.google.com/file/d/1W9mqld7m6TxgQucC3wEvUHatpij6nfMr/view?usp=sharing";
+const String timetable="https://drive.google.com/file/d/1hC-f_ornJHdvlSgaYG_-8pIEziDkDI1X/view?usp=sharing";
+const String syllabus="https://drive.google.com/file/d/1-EmavZGRP4oMDU5OC9SH5qn0JzYWeWHO/view?usp=sharing";
+const String skillrack="https://drive.google.com/file/d/1jOYxpEV9YtD4Prh4Rfyb9_zLaXj6SmQ9/view?usp=sharing";
+const String search="https://drive.google.com/file/d/1ZBjf6-HAX9NGlSaG2a0qyUvndemsFaYc/view?usp=sharing";
+const String result="https://drive.google.com/file/d/1W7u5SNpCmCLlZZAOmHKHtFI3F5sQUKvf/view?usp=sharing";
+const String ranking="https://drive.google.com/file/d/1vJdn-VsQSdSTJdePO6uiGXchjugp8FAe/view?usp=sharing";
+const String placement="https://drive.google.com/file/d/1EU4agu8ABOv8Q8aYRolL4hVvq5A2dQKF/view?usp=sharing";
+const String noticeboard="https://drive.google.com/file/d/10O188w0B45fy0Bfz1qKYgEqi_tugcO58/view?usp=sharing";
+const String kiotlogo="https://drive.google.com/file/d/1z06nVAXzBWjyeeQUUd0obrXz518eacHf/view?usp=sharing";
+const String internals="https://drive.google.com/file/d/1MrPY4Zb6si_Fy5eeuzjhqaMg9Fay0aPo/view?usp=sharing";
+const String exams="https://drive.google.com/file/d/1K9tDwd9oIWBYszR3FonHr179rrhSECBA/view?usp=sharing";
+const String contest="https://drive.google.com/file/d/1Ayx-pt0crM-RCFIorFNVb9awQwjXLxJ4/view?usp=sharing";
+const String complexprog="https://drive.google.com/file/d/1eP0ukwNwXXWyOjUjae8CIFRR8QvTs0uQ/view?usp=sharing";
+const String awards="https://drive.google.com/file/d/1Zjj1-r_GGOOHI769B3r09h5_eG1cGgJl/view?usp=sharing";
+const String about="https://drive.google.com/file/d/14hJe0DJWoHI1hIsXXlz_Na_ItXZv8cJ2/view?usp=sharing";
+const String performance="https://drive.google.com/file/d/1vR8_w-942b4sJ-nNtpOJSXQWFHPVJAuv/view?usp=sharing";
